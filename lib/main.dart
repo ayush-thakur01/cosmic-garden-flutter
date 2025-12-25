@@ -53,7 +53,7 @@ class _CosmicGardenState extends State<CosmicGarden>
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      backgroundColor: const Color.fromARGB(255, 138, 20, 134),
+      backgroundColor: const Color.fromARGB(255, 19, 10, 33),
       body: GestureDetector(
         onTapDown: (d) => addFlower(d.localPosition),
         child: AnimatedBuilder(
