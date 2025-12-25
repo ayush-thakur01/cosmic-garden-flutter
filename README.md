@@ -1,4 +1,4 @@
-**# 🌸 Cosmic Garden – Flutter Generative Art App**
+ **🌸 Cosmic Garden – Flutter Generative Art App**
 
 
 
@@ -8,7 +8,7 @@
 
 
 
-**## ✨ Features**
+ **✨ Features**
 
 **- Tap to generate animated flowers**
 
@@ -20,7 +20,7 @@
 
 
 
-**## 🛠️ Tech Stack**
+ **🛠️ Tech Stack**
 
 **- Flutter**
 
@@ -32,7 +32,7 @@
 
 
 
-**## ▶️ How to Run**
+**▶️ How to Run**
 
 **```bash**
 
